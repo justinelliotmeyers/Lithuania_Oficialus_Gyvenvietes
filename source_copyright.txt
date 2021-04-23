@@ -1,0 +1,9 @@
+﻿Georeferencinių duomenų rinkinys M 1:10 000 (GDR10LT)
+ http://www.nzt.lt/go.php/lit/Atviri-duomenys
+'You may use the data published by the National Land Service under the Ministry of Agriculture (transfer all or part of the information, display it, process, adapt, classify, systematize, publish, subdivide or otherwise handle it, create derivative products, regardless of the intended use) if:
+• You comply with the requirements of the legal acts of the Republic of Lithuania;
+• Do not mislead users as to the sources of the information, the conditions of use of the information, the official nature of the information;
+• You do not alter the veracity of the data or create other conditions to mislead users in any other way;
+• Indicate the primary source of information (National Land Service under the Ministry of Agriculture).'
+Way to access after add to map:
+https://www.geoportal.lt/geoportal/nacionaline-zemes-tarnyba-prie-zemes-ukio-ministerijos1
